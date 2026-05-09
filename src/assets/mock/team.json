@@ -1,0 +1,76 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Giuseppe Colombo",
+      "ruolo": "Presidente",
+      "qualificaFIGC": "Dirigente Accompagnatore Arbitri",
+      "bio": "Presidente dell'Aurora dal 2014. Imprenditore locale, ex calciatore della prima squadra negli anni '90. Ha guidato il rilancio del settore giovanile portando il numero di iscritti da 80 a oltre 180 atleti.",
+      "anniEsperienza": 12,
+      "email": "presidente@asdaurora1965.it"
+    },
+    {
+      "id": 2,
+      "nome": "Andrea Moretti",
+      "ruolo": "Direttore Sportivo Settore Giovanile",
+      "qualificaFIGC": "Direttore Sportivo FIGC",
+      "bio": "Ex allenatore delle giovanili del Brescia Calcio per 8 anni. Coordina tutti e sei i gruppi del settore giovanile, gestisce i rapporti con la federazione e organizza i provini aperti ogni settembre.",
+      "anniEsperienza": 22,
+      "email": "ds@asdaurora1965.it"
+    },
+    {
+      "id": 3,
+      "nome": "Roberto Bettoni",
+      "ruolo": "Allenatore Piccoli Amici (U5-U7)",
+      "qualificaFIGC": "Patentino UEFA Grassroots C",
+      "bio": "Laureato in Scienze Motorie all'Università di Brescia. Specializzato nello sviluppo motorio infantile dai 4 agli 8 anni. Metodologia giocosa orientata alla scoperta del movimento.",
+      "anniEsperienza": 8,
+      "email": "bettoni@asdaurora1965.it"
+    },
+    {
+      "id": 4,
+      "nome": "Marco Ghirardini",
+      "ruolo": "Allenatore Pulcini (U8-U10)",
+      "qualificaFIGC": "Patentino UEFA C",
+      "bio": "Ex calciatore delle serie dilettantistiche bresciane per 15 anni. Formatore FIGC certificato per le categorie Pulcini. Cura particolarmente la tecnica individuale e il controllo palla.",
+      "anniEsperienza": 11,
+      "email": "ghirardini@asdaurora1965.it"
+    },
+    {
+      "id": 5,
+      "nome": "Alessandro Bontempi",
+      "ruolo": "Allenatore Esordienti (U11-U12)",
+      "qualificaFIGC": "Patentino UEFA C",
+      "bio": "Già collaboratore tecnico del settore giovanile del Lumezzane per 5 anni. Introdotto i principi del gioco associato nelle fasce Under. Grande attenzione alla fase difensiva collettiva.",
+      "anniEsperienza": 9,
+      "email": "bontempi@asdaurora1965.it"
+    },
+    {
+      "id": 6,
+      "nome": "Cristiano Vezzoli",
+      "ruolo": "Allenatore Giovanissimi (U13-U14)",
+      "qualificaFIGC": "Patentino UEFA B",
+      "bio": "Qualificato UEFA B, il più titolato del settore giovanile Aurora. Ha guidato la squadra Giovanissimi alla vittoria del Torneo Città di Brescia 2023. Lavora molto sull'analisi video post-partita.",
+      "anniEsperienza": 14,
+      "email": "vezzoli@asdaurora1965.it"
+    },
+    {
+      "id": 7,
+      "nome": "Fabrizio Loda",
+      "ruolo": "Allenatore Allievi (U15-U16)",
+      "qualificaFIGC": "Patentino UEFA B",
+      "bio": "Ex portiere semiprofessionista con 200+ presenze nei campionati dilettantistici nazionali. Specializzato nella preparazione atletica dei giovani. Lavora in sinergia con il preparatore atletico della Prima Squadra.",
+      "anniEsperienza": 16,
+      "email": "loda@asdaurora1965.it"
+    },
+    {
+      "id": 8,
+      "nome": "Gianluca Ottolini",
+      "ruolo": "Allenatore Juniores (U17-U19)",
+      "qualificaFIGC": "Patentino UEFA A",
+      "bio": "Titolato UEFA A e Match Analyst FIGC. Già allenatore in seconda nella Serie D per tre stagioni. Guida i Juniores con metodologia professionale: report tattici, analisi degli avversari e preparazione individuale al ruolo.",
+      "anniEsperienza": 18,
+      "email": "ottolini@asdaurora1965.it"
+    }
+  ]
+}

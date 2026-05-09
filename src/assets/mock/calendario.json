@@ -1,0 +1,200 @@
+{
+  "partite": [
+    {
+      "id": "p001",
+      "data": "2026-05-11",
+      "ora": "09:30",
+      "squadraId": "pulcini",
+      "squadraNome": "Pulcini U8-U10",
+      "tipo": "casa",
+      "avversario": "US Ospitaletto",
+      "campo": "Campo Secondario Sintetico — Via Olimpia 12, Castegnato",
+      "competizione": "Campionato Provinciale Pulcini",
+      "risultato": null
+    },
+    {
+      "id": "p002",
+      "data": "2026-05-11",
+      "ora": "11:00",
+      "squadraId": "esordienti",
+      "squadraNome": "Esordienti U11-U12",
+      "tipo": "trasferta",
+      "avversario": "ASD Gussago",
+      "campo": "Campo Comunale Gussago — Via G. Garibaldi 3, Gussago BS",
+      "competizione": "Campionato Provinciale Esordienti",
+      "risultato": null
+    },
+    {
+      "id": "p003",
+      "data": "2026-05-11",
+      "ora": "14:30",
+      "squadraId": "giovanissimi",
+      "squadraNome": "Giovanissimi U13-U14",
+      "tipo": "casa",
+      "avversario": "Virtus Calcio Brescia",
+      "campo": "Campo Principale \"A. Moro\" — Via dello Stadio 5, Castegnato",
+      "competizione": "Campionato Regionale Giovanissimi",
+      "risultato": null
+    },
+    {
+      "id": "p004",
+      "data": "2026-05-14",
+      "ora": "18:30",
+      "squadraId": "juniores",
+      "squadraNome": "Juniores U17-U19",
+      "tipo": "trasferta",
+      "avversario": "FC Lumezzane Youth",
+      "campo": "Stadio Tullio Saleri — Via IV Novembre, Lumezzane BS",
+      "competizione": "Campionato Regionale Juniores",
+      "risultato": null
+    },
+    {
+      "id": "p005",
+      "data": "2026-05-17",
+      "ora": "10:00",
+      "squadraId": "piccoli-amici",
+      "squadraNome": "Piccoli Amici U5-U7",
+      "tipo": "casa",
+      "avversario": "ASD San Polo BS",
+      "campo": "Campo Secondario Sintetico — Via Olimpia 12, Castegnato",
+      "competizione": "Torneo Amichevole",
+      "risultato": null
+    },
+    {
+      "id": "p006",
+      "data": "2026-05-17",
+      "ora": "15:00",
+      "squadraId": "allievi",
+      "squadraNome": "Allievi U15-U16",
+      "tipo": "casa",
+      "avversario": "GS Cellatica",
+      "campo": "Campo Principale \"A. Moro\" — Via dello Stadio 5, Castegnato",
+      "competizione": "Campionato Provinciale Allievi",
+      "risultato": null
+    },
+    {
+      "id": "p007",
+      "data": "2026-05-18",
+      "ora": "09:30",
+      "squadraId": "pulcini",
+      "squadraNome": "Pulcini U8-U10",
+      "tipo": "trasferta",
+      "avversario": "AS Cologne",
+      "campo": "Campo Sportivo Cologne — Via Marconi 8, Cologne BS",
+      "competizione": "Campionato Provinciale Pulcini",
+      "risultato": null
+    },
+    {
+      "id": "p008",
+      "data": "2026-05-18",
+      "ora": "16:00",
+      "squadraId": "giovanissimi",
+      "squadraNome": "Giovanissimi U13-U14",
+      "tipo": "trasferta",
+      "avversario": "Polisportiva Bagnolo",
+      "campo": "Campo Olimpico Bagnolo — Via Roma 22, Bagnolo Mella BS",
+      "competizione": "Campionato Regionale Giovanissimi",
+      "risultato": null
+    },
+    {
+      "id": "p009",
+      "data": "2026-05-24",
+      "ora": "10:30",
+      "squadraId": "esordienti",
+      "squadraNome": "Esordienti U11-U12",
+      "tipo": "casa",
+      "avversario": "US Roncadelle",
+      "campo": "Campo Principale \"A. Moro\" — Via dello Stadio 5, Castegnato",
+      "competizione": "Campionato Provinciale Esordienti",
+      "risultato": null
+    },
+    {
+      "id": "p010",
+      "data": "2026-05-24",
+      "ora": "15:30",
+      "squadraId": "juniores",
+      "squadraNome": "Juniores U17-U19",
+      "tipo": "casa",
+      "avversario": "ASD Palazzolo",
+      "campo": "Campo Principale \"A. Moro\" — Via dello Stadio 5, Castegnato",
+      "competizione": "Campionato Regionale Juniores — Play-off",
+      "risultato": null
+    },
+    {
+      "id": "p011",
+      "data": "2026-05-25",
+      "ora": "11:00",
+      "squadraId": "allievi",
+      "squadraNome": "Allievi U15-U16",
+      "tipo": "trasferta",
+      "avversario": "Chiari Calcio",
+      "campo": "Campo Sportivo Chiari — Via Stadio 1, Chiari BS",
+      "competizione": "Campionato Provinciale Allievi",
+      "risultato": null
+    },
+    {
+      "id": "p012",
+      "data": "2026-05-31",
+      "ora": "16:00",
+      "squadraId": "giovanissimi",
+      "squadraNome": "Giovanissimi U13-U14",
+      "tipo": "casa",
+      "avversario": "Brescia Calcio Youth B",
+      "campo": "Campo Principale \"A. Moro\" — Via dello Stadio 5, Castegnato",
+      "competizione": "Campionato Regionale Giovanissimi — Finale",
+      "risultato": null
+    }
+  ],
+  "eventi": [
+    {
+      "id": "e001",
+      "data": "2026-05-13",
+      "ora": "20:00",
+      "titolo": "Riunione genitori settore giovanile",
+      "tipo": "riunione",
+      "luogo": "Sala polivalente Via dello Stadio 5, Castegnato",
+      "descrizione": "Aggiornamento sui campionati, comunicazioni iscrizioni 2026-2027, presentazione staff tecnico nuove leve. Presenza obbligatoria almeno un genitore per nucleo familiare.",
+      "aperto": true
+    },
+    {
+      "id": "e002",
+      "data": "2026-05-22",
+      "ora": "09:00",
+      "titolo": "Open Day — Provini gratuiti settore giovanile",
+      "tipo": "open-day",
+      "luogo": "Campo Principale e Secondario — Castegnato",
+      "descrizione": "Giornata di provini gratuiti aperta a tutti i bambini e ragazzi dai 5 ai 19 anni. Nessuna iscrizione necessaria, portare abbigliamento sportivo e scarpe da calcio. I tecnici valuteranno ogni atleta in modo ludico e non competitivo.",
+      "aperto": true
+    },
+    {
+      "id": "e003",
+      "data": "2026-06-07",
+      "ora": "10:00",
+      "titolo": "Torneo Internazionale \"Aurora Cup 2026\"",
+      "tipo": "torneo",
+      "luogo": "Campo Principale + Campo Secondario — Castegnato",
+      "descrizione": "21a edizione dell'Aurora Cup, torneo internazionale giovanile con 24 squadre da Italia, Svizzera e Slovenia. Categorie Pulcini, Esordienti e Giovanissimi. Ingresso libero per il pubblico.",
+      "aperto": true
+    },
+    {
+      "id": "e004",
+      "data": "2026-06-20",
+      "ora": "18:30",
+      "titolo": "Cerimonia di premiazione fine stagione 2025-2026",
+      "tipo": "premiazione",
+      "luogo": "Palazzetto dello Sport — Via Roma 8, Castegnato",
+      "descrizione": "Premiazione dei migliori atleti per categoria: miglior giocatore, miglior portiere, fair play. Consegna trofei squadre. Cena sociale a seguire con prenotazione obbligatoria entro il 15 giugno.",
+      "aperto": true
+    },
+    {
+      "id": "e005",
+      "data": "2026-09-05",
+      "ora": "09:00",
+      "titolo": "Open Day Iscrizioni Stagione 2026-2027",
+      "tipo": "open-day",
+      "luogo": "Campo Principale — Via dello Stadio 5, Castegnato",
+      "descrizione": "Giornata di apertura iscrizioni per la stagione 2026-2027. Possibilità di effettuare provini per tutte le categorie, ritiro documentazione iscrizione, presentazione quote e calendario allenamenti.",
+      "aperto": true
+    }
+  ]
+}

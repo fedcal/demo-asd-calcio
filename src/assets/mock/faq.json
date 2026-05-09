@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Che differenza c'è tra visita medica agonistica e non agonistica?",
+      "risposta": "La visita medica agonistica è obbligatoria per tutte le categorie che partecipano a competizioni federali FIGC (U8-U19). Comprende un elettrocardiogramma e deve essere svolta da un medico specializzato in medicina dello sport. Va rinnovata ogni anno ed ha un costo di circa €25-40 presso ASL o studi privati convenzionati. La visita non agonistica è invece sufficiente per i Piccoli Amici U5-U7, che non disputano campionati federali. Può essere rilasciata dal medico di base e costa circa €15-25."
+    },
+    {
+      "domanda": "Il kit ufficiale Aurora è incluso nella quota di iscrizione?",
+      "risposta": "Sì, la quota di iscrizione comprende il kit ufficiale completo: maglia da gioco con numero, pantaloncini e calzettoni nei colori sociali bianco-blu. Per le categorie Allievi e Juniores è inclusa anche la seconda maglia da trasferta. Non sono incluse le scarpe da calcio (tacchetti per erba naturale o scarpe da futsal per il campo sintetico) né i parastinchi, obbligatori per legge FIGC in partita."
+    },
+    {
+      "domanda": "È possibile fare una prova gratuita prima di iscriversi?",
+      "risposta": "Assolutamente sì. Organizziamo Open Day gratuiti ogni settembre prima dell'inizio della stagione, ma accettiamo bambini in prova durante qualsiasi allenamento nell'arco dell'anno (contattare la segreteria per coordinamento). Le prove sono gratuite, senza impegno e senza limite di tentativi. I nostri tecnici valuteranno il bambino con metodo ludico, senza pressioni, indicando la categoria più adatta per età e livello."
+    },
+    {
+      "domanda": "Come funzionano i trasferimenti e gli indennizzi FIGC?",
+      "risposta": "Il sistema di indennizzo federale FIGC (\"indennizzo di formazione\") si applica quando un atleta cresciuto in un settore giovanile viene tesserato da una società professionistica o dilettantistica di categoria superiore. Per le società affiliate al Settore Giovanile LND come Aurora, l'indennizzo spetta alla società formatrice in proporzione agli anni di tesseramento. Non ci sono costi aggiuntivi per le famiglie: il trasferimento di un atleta ad altra società è sempre libero, basta comunicarlo alla segreteria entro i termini FIGC."
+    },
+    {
+      "domanda": "Siamo coperti da assicurazione durante gli allenamenti e le partite?",
+      "risposta": "Sì, tutti gli atleti tesserati FIGC (categorie U8-U19) sono automaticamente coperti dall'assicurazione federale FIGC per infortuni occorsi durante allenamenti e gare ufficiali. La polizza copre spese mediche, invalidità temporanea e permanente. I Piccoli Amici U5-U7, non tesserati FIGC, sono coperti da una polizza sportiva separata stipulata dalla società. In entrambi i casi la copertura è inclusa nella quota di iscrizione."
+    },
+    {
+      "domanda": "I genitori possono assistere agli allenamenti e alle partite?",
+      "risposta": "Alle partite, sì: invitiamo le famiglie a sostenere le squadre nel rispetto delle regole di comportamento federali. Agli allenamenti, la presenza dei genitori è generalmente consentita in forma discreta, a distanza, senza interferire con il lavoro tecnico. Per le categorie più giovani (Piccoli Amici e Pulcini) i tecnici preferiscono allenare senza la presenza diretta dei genitori, per favorire l'autonomia del bambino. Vi chiediamo di rispettare sempre le decisioni dello staff tecnico."
+    },
+    {
+      "domanda": "Come si ottiene il codice FIGC per il tesseramento?",
+      "risposta": "Il codice identificativo FIGC viene assegnato automaticamente al primo tesseramento federale (categoria U8). La segreteria Aurora si occupa di tutta la procedura: compilazione della domanda sul portale SISS FIGC, caricamento dei documenti richiesti e pagamento della quota federale (inclusa nella vostra iscrizione). Riceverete la tessera digitale FIGC entro 10-15 giorni lavorativi dall'inizio della stagione. Se il bambino ha già un codice FIGC da precedente tessera in altra società, comunicatelo alla segreteria."
+    },
+    {
+      "domanda": "La quota di iscrizione è fiscalmente detraibile?",
+      "risposta": "Sì, le spese sportive per i minori di 18 anni iscritti ad associazioni sportive dilettantistiche riconosciute dal CONI sono detraibili al 19% fino a un massimo di €210 per figlio (art. 15 TUIR). ASD Aurora è regolarmente iscritta al Registro Nazionale delle ASD presso il CONI e affiliata FIGC LND, pertanto la quota versata dà diritto alla detrazione. Rilasciamo regolare ricevuta fiscale. Per dichiarazione 730 o Unico, conservate la ricevuta di pagamento. Consigliamo di verificare i massimali aggiornati sul sito dell'Agenzia delle Entrate."
+    }
+  ]
+}

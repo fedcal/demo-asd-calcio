@@ -1,0 +1,5 @@
+/
+/squadre
+/chi-siamo
+/calendario
+/iscrivi

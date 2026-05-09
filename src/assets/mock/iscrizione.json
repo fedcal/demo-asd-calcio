@@ -1,0 +1,74 @@
+{
+  "fascePrezzo": [
+    {
+      "id": "piccoli-amici",
+      "categoria": "Piccoli Amici U5-U7",
+      "quotaAnnuale": 280,
+      "note": "Attività ludico-motoria non agonistica. Costi ridotti in quanto non si sostengono spese federali d'iscrizione agonistica."
+    },
+    {
+      "id": "pulcini",
+      "categoria": "Pulcini U8-U10",
+      "quotaAnnuale": 320,
+      "note": "Prima categoria con tessera federale FIGC. Include partecipazione al campionato provinciale."
+    },
+    {
+      "id": "esordienti",
+      "categoria": "Esordienti U11-U12",
+      "quotaAnnuale": 350,
+      "note": "Campionato provinciale a 9. Include rimborso spese trasferte."
+    },
+    {
+      "id": "giovanissimi",
+      "categoria": "Giovanissimi U13-U14",
+      "quotaAnnuale": 380,
+      "note": "Campionato regionale. Include trasferte in pullman organizzato dalla società."
+    },
+    {
+      "id": "allievi",
+      "categoria": "Allievi U15-U16",
+      "quotaAnnuale": 420,
+      "note": "Campionato provinciale agonistico. Include preparatore atletico dedicato."
+    },
+    {
+      "id": "juniores",
+      "categoria": "Juniores U17-U19",
+      "quotaAnnuale": 450,
+      "note": "Campionato regionale. Include analisi video partite e report tecnici individuali."
+    }
+  ],
+  "inclusioni": [
+    "Kit ufficiale Aurora completo (maglia, pantaloncini, calzettoni)",
+    "Tessera federale FIGC (categorie U8+)",
+    "Assicurazione sportiva FIGC",
+    "Utilizzo strutture e spogliatoi",
+    "Accompagnamento nelle trasferte organizzate"
+  ],
+  "esclusioniNoteVarie": [
+    "Visita medica agonistica obbligatoria (U8-U19) — costo a carico famiglia, circa €25-40",
+    "Visita medica non agonistica (U5-U7) — costo a carico famiglia, circa €15-25",
+    "Scarpe da calcio (tacchetti o futsal per sintetico)",
+    "Kit accessori personali (parastinchi, guanti portiere)"
+  ],
+  "modalitaPagamento": [
+    "Contanti presso la segreteria",
+    "Bonifico bancario — IBAN: IT60 X054 2811 1010 0000 0123 456",
+    "Rateizzazione possibile: 50% entro settembre, 50% entro gennaio"
+  ],
+  "documentazioneRichiesta": [
+    "Documento d'identità del minore (carta d'identità o passaporto validi)",
+    "Codice fiscale del minore",
+    "Documento d'identità del genitore/tutore legale",
+    "Certificato di visita medica agonistica in corso di validità (categorie U8-U19)",
+    "Certificato di visita medica non agonistica (categoria U5-U7)",
+    "Foto tessera recente (formato 3x4 cm)",
+    "Modulo iscrizione compilato e firmato",
+    "Privacy minore GDPR firmata da entrambi i genitori/tutori"
+  ],
+  "noteImportanti": "La quota di iscrizione è dovuta per intero anche in caso di ritiro anticipato dalla stagione, salvo documentata impossibilità per motivi medici gravi certificati da medico specialista. Per famiglie con più figli iscritti all'Aurora è previsto uno sconto del 10% dal secondo figlio in poi.",
+  "rateizzazione": true,
+  "scontoFratelli": 10,
+  "proviniGratuiti": true,
+  "inizioStagione": "Settembre 2026",
+  "fineStagione": "Giugno 2027"
+}

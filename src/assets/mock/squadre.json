@@ -1,0 +1,115 @@
+{
+  "squadre": [
+    {
+      "id": "piccoli-amici",
+      "categoria": "Piccoli Amici",
+      "siglaFIGC": "U5-U7",
+      "fasciaDiEta": "5-7 anni",
+      "allenatore": "Roberto Bettoni",
+      "assistente": "Luca Tirelli",
+      "numeroGiocatori": 22,
+      "orariAllenamento": [
+        { "giorno": "Mercoledì", "orario": "16:30 – 17:30" },
+        { "giorno": "Venerdì", "orario": "16:30 – 17:30" }
+      ],
+      "giornoPartita": "Domenica",
+      "campo": "campo-secondario",
+      "colori": "bianco-blu",
+      "descrizioneObiettivi": "Avvicinamento ludico al gioco del calcio attraverso attività motorie di base, sviluppo della coordinazione e del senso dello spazio. L'obiettivo principale è divertirsi e amare il pallone, senza pressioni agonistiche.",
+      "annoFondazione": 2008
+    },
+    {
+      "id": "pulcini",
+      "categoria": "Pulcini",
+      "siglaFIGC": "U8-U10",
+      "fasciaDiEta": "8-10 anni",
+      "allenatore": "Marco Ghirardini",
+      "assistente": "Davide Pasini",
+      "numeroGiocatori": 28,
+      "orariAllenamento": [
+        { "giorno": "Lunedì", "orario": "17:00 – 18:30" },
+        { "giorno": "Mercoledì", "orario": "17:00 – 18:30" }
+      ],
+      "giornoPartita": "Sabato",
+      "campo": "campo-secondario",
+      "colori": "bianco-blu",
+      "descrizioneObiettivi": "Apprendimento delle fondamentali tecniche individuali: controllo palla, dribbling, passaggi corti. Introduzione graduale alle regole del gioco e allo spirito di squadra. Partite su campi ridotti 5v5 e 7v7.",
+      "annoFondazione": 1995
+    },
+    {
+      "id": "esordienti",
+      "categoria": "Esordienti",
+      "siglaFIGC": "U11-U12",
+      "fasciaDiEta": "11-12 anni",
+      "allenatore": "Alessandro Bontempi",
+      "assistente": "Stefano Rivetti",
+      "numeroGiocatori": 24,
+      "orariAllenamento": [
+        { "giorno": "Lunedì", "orario": "17:30 – 19:00" },
+        { "giorno": "Mercoledì", "orario": "17:30 – 19:00" }
+      ],
+      "giornoPartita": "Sabato",
+      "campo": "campo-principale",
+      "colori": "bianco-blu",
+      "descrizioneObiettivi": "Consolidamento tecnico su campo a 9. Introduzione dei principi tattici di base: posizionamento, pressing, transizioni. Sviluppo della responsabilità sportiva e rispetto dell'avversario.",
+      "annoFondazione": 1988
+    },
+    {
+      "id": "giovanissimi",
+      "categoria": "Giovanissimi",
+      "siglaFIGC": "U13-U14",
+      "fasciaDiEta": "13-14 anni",
+      "allenatore": "Cristiano Vezzoli",
+      "assistente": "Paolo Massetti",
+      "numeroGiocatori": 22,
+      "orariAllenamento": [
+        { "giorno": "Lunedì", "orario": "17:30 – 19:30" },
+        { "giorno": "Mercoledì", "orario": "17:30 – 19:30" },
+        { "giorno": "Venerdì", "orario": "17:30 – 19:00" }
+      ],
+      "giornoPartita": "Domenica",
+      "campo": "campo-principale",
+      "colori": "bianco-blu",
+      "descrizioneObiettivi": "Consolidamento su campo regolamentare 11v11. Tattiche di squadra strutturate, sviluppo dei ruoli specifici. Campionato regionale FIGC LND con focus su crescita individuale e collettiva.",
+      "annoFondazione": 1982
+    },
+    {
+      "id": "allievi",
+      "categoria": "Allievi",
+      "siglaFIGC": "U15-U16",
+      "fasciaDiEta": "15-16 anni",
+      "allenatore": "Fabrizio Loda",
+      "assistente": "Mirko Turani",
+      "numeroGiocatori": 20,
+      "orariAllenamento": [
+        { "giorno": "Martedì", "orario": "18:00 – 20:00" },
+        { "giorno": "Giovedì", "orario": "18:00 – 20:00" },
+        { "giorno": "Sabato", "orario": "10:00 – 11:30" }
+      ],
+      "giornoPartita": "Domenica",
+      "campo": "campo-principale",
+      "colori": "bianco-blu",
+      "descrizioneObiettivi": "Fase agonistica avanzata con campionato provinciale FIGC. Preparazione fisica specifica, analisi video delle partite. Percorso di orientamento verso il calcio amatoriale o professionistico.",
+      "annoFondazione": 1975
+    },
+    {
+      "id": "juniores",
+      "categoria": "Juniores",
+      "siglaFIGC": "U17-U19",
+      "fasciaDiEta": "17-19 anni",
+      "allenatore": "Gianluca Ottolini",
+      "assistente": "Enrico Ferretti",
+      "numeroGiocatori": 22,
+      "orariAllenamento": [
+        { "giorno": "Martedì", "orario": "19:00 – 21:00" },
+        { "giorno": "Giovedì", "orario": "19:00 – 21:00" },
+        { "giorno": "Sabato", "orario": "16:00 – 18:00" }
+      ],
+      "giornoPartita": "Domenica",
+      "campo": "campo-principale",
+      "colori": "bianco-blu",
+      "descrizioneObiettivi": "Calcio agonistico regionale under-19. Preparazione atletica professionale, gestione della pressione agonistica, leadership in campo. Ponte verso il calcio dilettantistico e la Prima Squadra Aurora.",
+      "annoFondazione": 1968
+    }
+  ]
+}

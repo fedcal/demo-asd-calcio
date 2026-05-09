@@ -1,0 +1,73 @@
+{
+  "ragioneSociale": "ASD Polisportiva Aurora",
+  "nomeCommerciale": "ASD Polisportiva Aurora — calcio giovanile dal 1965",
+  "tagline": "Crescere con il pallone tra i piedi dal 1965",
+  "indirizzo": {
+    "via": "Via dello Stadio 5",
+    "citta": "Castegnato",
+    "provincia": "BS",
+    "cap": "25030",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.5623,
+    "lng": 10.0741
+  },
+  "codiceFiscale": "90012345678",
+  "affiliazione": {
+    "federazione": "FIGC",
+    "lega": "LND",
+    "settore": "Settore Giovanile e Scolastico",
+    "comitato": "Comitato Regionale Lombardia",
+    "matricola": "BS20234"
+  },
+  "contatti": {
+    "telefonoPrincipe": "+39 030 264 8820",
+    "emailSegreteria": "segreteria@asdaurora1965.it",
+    "emailPresidente": "presidente@asdaurora1965.it",
+    "social": {
+      "instagram": "https://instagram.com/asdaurora1965_demo",
+      "facebook": "https://facebook.com/asdaurora1965_demo"
+    }
+  },
+  "orariSegreteria": {
+    "martedi": "17:00 – 19:00",
+    "mercoledi": "Chiuso",
+    "giovedi": "17:00 – 19:00",
+    "sabato": "10:00 – 12:00",
+    "altriGiorni": "Chiuso"
+  },
+  "campi": [
+    {
+      "id": "campo-principale",
+      "nome": "Campo Sportivo Comunale \"A. Moro\"",
+      "indirizzo": "Via dello Stadio 5, 25030 Castegnato BS",
+      "fondo": "Erba naturale",
+      "principale": true,
+      "accessibile": true,
+      "tribune": true,
+      "spogliatoi": true
+    },
+    {
+      "id": "campo-secondario",
+      "nome": "Campo Secondario Sintetico",
+      "indirizzo": "Via Olimpia 12, 25030 Castegnato BS",
+      "fondo": "Erba sintetica",
+      "principale": false,
+      "accessibile": true,
+      "tribune": false,
+      "spogliatoi": true
+    }
+  ],
+  "metaSeo": {
+    "title": "ASD Polisportiva Aurora Castegnato — Calcio Giovanile FIGC dal 1965",
+    "description": "Società sportiva dilettantistica affiliata FIGC LND a Castegnato (BS). Settore giovanile da Piccoli Amici a Juniores. Iscrizioni aperte, provini gratuiti.",
+    "keywords": [
+      "calcio giovanile Brescia",
+      "ASD Aurora Castegnato",
+      "scuola calcio Castegnato",
+      "calcio bambini Brescia",
+      "FIGC LND Lombardia",
+      "settore giovanile calcio BS"
+    ]
+  }
+}
