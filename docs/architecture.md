@@ -3,7 +3,7 @@
 ## Struttura cartelle
 
 ```
-federico-demo-asd-calcio/
+demo-asd-calcio/
 ├── api/
 │   └── index.js              # Vercel serverless function entry SSR
 ├── docs/                     # VitePress docs site (questo sito)

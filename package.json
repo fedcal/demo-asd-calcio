@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-asd-calcio",
+  "name": "demo-asd-calcio",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per ASD Calcio Giovanile — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://asd-calcio.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-asd-calcio.git"
+    "url": "https://github.com/fedcal/demo-asd-calcio.git"
   },
   "scripts": {
     "ng": "ng",

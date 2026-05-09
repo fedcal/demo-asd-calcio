@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **ASD Calcio Giovanile** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://asd-calcio.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-asd-calcio/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-asd-calcio/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-asd-calcio.git
-cd federico-demo-asd-calcio
+git clone https://github.com/fedcal/demo-asd-calcio.git
+cd demo-asd-calcio
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:asd-calcio
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-asd-calcio/
+→ https://fedcal.github.io/demo-asd-calcio/
 
 ## Hub demos Federico
 
